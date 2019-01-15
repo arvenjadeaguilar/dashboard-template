@@ -1,4 +1,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Install 
+First, clone the repo via git:
+
+```bash
+git clone --depth 1 --single-branch --branch master https://github.com/arvenjadeaguilar/dashboard-template.git your-project-name
+```
+
+And then install the dependencies with yarn.
+
+```bash
+$ cd your-project-name
+$ yarn
+```
 
 ## Available Scripts
 
